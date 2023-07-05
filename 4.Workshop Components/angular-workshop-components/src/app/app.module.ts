@@ -8,6 +8,7 @@ import { MaineComponent } from './maine/maine.component';
 import { PostListComponent } from './post-list/post-list.component';
 import { ThemesListComponent } from './themes-list/themes-list.component';
 import { HttpClientModule } from "@angular/common/http";
+import { SharedModule } from './shared/shared.module';
 
 
 @NgModule({
@@ -21,7 +22,8 @@ import { HttpClientModule } from "@angular/common/http";
     BrowserModule,
     AppRoutingModule,
     CoreModule,
-    HttpClientModule
+    HttpClientModule,
+    SharedModule
   ],
   providers: [],
   bootstrap: [AppComponent]
