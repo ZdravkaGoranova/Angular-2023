@@ -25,6 +25,8 @@
 • HTTP Client.
 
 ## 4.Workshop: Components
+![](/view.jpg)
+
 ## 5.Modules and Routing
 • NgModule;
 • Routing Overview;
