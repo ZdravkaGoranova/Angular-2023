@@ -1,7 +1,6 @@
 
-
-view.jpg
-
+## View
+![](/view.jpg)
 
 # AngularWorkshopComponents
 
